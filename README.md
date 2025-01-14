@@ -56,6 +56,6 @@ Sprunki Chaotic Good is a free online music game where players create unique mus
 
 Ready to unleash your musical chaos? Play Sprunki Chaotic Good Now.
 
- [Sprunki Game soio](https://solo.to/sprunki-game)
- [Sprunki Retake soio](https://solo.to/sprunki-retake)
- [Sprunked soio](https://solo.to/sprunked)
+ [Sprunki Game solo](https://solo.to/sprunki-game)
+ [Sprunki Retake solo](https://solo.to/sprunki-retake)
+ [Sprunked solo](https://solo.to/sprunked)
